@@ -1,1 +1,1 @@
- hirthis is a demo file to teach how to use the linux terminal in mac os.I am adding this text so that I can create a merge conflict.
+this is from git test. 
